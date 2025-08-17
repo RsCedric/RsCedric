@@ -28,10 +28,15 @@ The goal is to save time and ensure high-quality, customized applications with j
 
 ## Completed Projects
 
-- **Mont Blanc Zug Website**  
+### Mont Blanc Zug Website 
   [mont-blanc-zug.ch](https://mont-blanc-zug.ch)  
   Developed a user-friendly, responsive website for the popular Mont Blanc Cafeteria in Zug.  
   The website provides clear navigation for visitors and a modern design that reflects the café's identity.
+
+### Room Reservation
+A web-based scheduling system for room reservations with secure user login.
+Data is stored in a containerized SQL database, ensuring reliability and scalability.
+Built with PHP, SQL, JavaScript, HTML, and CSS, the system allows staff to manage bookings, view availability, and organize customer details efficiently.
 
 ---
 
