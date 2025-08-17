@@ -10,6 +10,9 @@ I speak **German and English fluently**, which helps me communicate effectively 
 
 ## Current Projects
 
+Outreachmaxxing
+This project is a web-based lead management tool that organizes contacts, automates outreach, and supports SMS and chat interactions. It integrates multiple APIs, including GPT for dynamic prompt generation and Twilio for SMS communication.
+
 BewerbungsAutomator
 This project automates the creation of personalized job application dossiers. It retrieves company information via APIs and generates tailored motivation paragraphs using AI models. The tool then integrates the adapted application letter with your CV and certificates into a single PDF dossier. The final output is a professional, company-specific application named in the format “Bewerbungsdossier(CompanyName)CedricRoeseler.pdf”. The goal is to save time and ensure high-quality, customized applications with just one click.
 
