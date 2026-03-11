@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Cedric**, a 17-year-old student currently attending the **Bénédict School in Zurich**, where I am completing my education in computer science.
+Hi, I'm **Cedric**, a 18-year-old student currently attending the **Bénédict School in Zurich**, where I am completing my education in computer science.
 
 I enjoy learning how software and infrastructure work together to create efficient solutions. Whether it's building websites for businesses or experimenting with backend tools, I like understanding the full development process.  
 I see programming as an opportunity to solve problems, automate tasks, and create tools that are useful in everyday life and business environments.
