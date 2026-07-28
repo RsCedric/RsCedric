@@ -1,37 +1,27 @@
 # Welcome to my GitHub
-
 ## About Me
-
-Hi, I'm **Cedric**, a 18-year-old student currently attending the **Bénédict School in Zurich**, where I am completing my education in computer science.
-
-I enjoy learning how software and infrastructure work together to create efficient solutions. Whether it's building websites for businesses or experimenting with backend tools, I like understanding the full development process.  
+Hi, I'm **Cedric**, an 18-year-old student currently attending the **Bénédict School in Zurich**, where I am completing my education in computer science.
+I enjoy learning how software and infrastructure work together to create efficient solutions. Whether it's building websites for businesses or experimenting with backend tools, I like understanding the full development process.
 I see programming as an opportunity to solve problems, automate tasks, and create tools that are useful in everyday life and business environments.
+
+Alongside my studies, I'm co-founder of **[Callwise](https://callwise.ch)**, a Swiss startup building a custom AI phone assistant that answers business calls 24/7 — handling appointment booking, customer support, and lead qualification so companies never miss a call.
 
 I speak **German and English fluently**, which helps me communicate effectively in international projects and understand technical documentation in both languages.
 
 ---
-
 ## Current Projects
 
-### Outreachmaxxing  
-A web-based lead management tool that organizes contacts, automates outreach, and supports SMS and chat interactions.  
-It integrates multiple APIs, including **GPT** for dynamic prompt generation and **Twilio** for SMS communication.
-
-### Bewerbungsautomator  
-A tool that automates the creation of personalized job application dossiers.  
-It retrieves company information via APIs and generates tailored motivation paragraphs using AI models. The tool then integrates the adapted application letter with your CV and certificates into a single PDF dossier.  
-The final output is a professional, company-specific application named in the format:  
-**`Bewerbungsdossier(CompanyName)CedricRoeseler.pdf`**.  
-The goal is to save time and ensure high-quality, customized applications with just one click.
+### Job Signal Scanner *(for Callwise)*
+A lead-generation tool that continuously scans job platforms for postings that signal high phone/call volume — for example, open roles for receptionists, dispatchers, or customer support agents.
+Companies showing these hiring signals are strong candidates for Callwise's AI phone assistant, since a role like this is usually a sign of unmet demand for call handling.
+The tool automatically flags these leads and prepares the relevant context, so outreach starts warm and well-informed instead of cold.
 
 ---
-
 ## Completed Projects
-
-### Mont Blanc Zug Website 
-  [mont-blanc-zug.ch](https://mont-blanc-zug.ch)  
-  Developed a user-friendly, responsive website for the popular Mont Blanc Cafeteria in Zug.  
-  The website provides clear navigation for visitors and a modern design that reflects the café's identity.
+### Mont Blanc Zug Website
+[mont-blanc-zug.ch](https://mont-blanc-zug.ch)
+Developed a user-friendly, responsive website for the popular Mont Blanc Cafeteria in Zug.
+The website provides clear navigation for visitors and a modern design that reflects the café's identity.
 
 ### Room Reservation
 A web-based scheduling system for room reservations with secure user login.
@@ -39,15 +29,12 @@ Data is stored in a containerized SQL database, ensuring reliability and scalabi
 Built with PHP, SQL, JavaScript, HTML, and CSS, the system allows staff to manage bookings, view availability, and organize customer details efficiently.
 
 ---
-
 ## Skills
-
 During my studies I have learned and worked with:
-
-- **React** – building interactive user interfaces and front-end applications  
-- **Artificial Intelligence** – understanding concepts and implementing basic AI solutions  
-- **Programming Languages:** C++, Java – for object-oriented programming and software development  
-- **Web Development:** HTML, CSS, JavaScript – creating structured, styled, and dynamic web pages  
-- **Docker** – containerizing applications to simplify deployment and improve scalability  
+- **React** – building interactive user interfaces and front-end applications
+- **Artificial Intelligence** – understanding concepts and implementing basic AI solutions
+- **Programming Languages:** C++, Java – for object-oriented programming and software development
+- **Web Development:** HTML, CSS, JavaScript – creating structured, styled, and dynamic web pages
+- **Docker** – containerizing applications to simplify deployment and improve scalability
 
 I am continuously expanding my skill set through personal projects and by applying what I learn to practical applications.
