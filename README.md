@@ -1,12 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D04894,100:805AE2&height=220&section=header&text=Cedric%20R%C3%B6seler&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%C2%B7%20Co-founder%20of%20Callwise%20Solutions%20GmbH&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Cedric Röseler" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FAFAF7&height=200&section=header&text=Cedric%20R%C3%B6seler&fontSize=56&fontColor=0A0A0A&fontAlignY=40&desc=Developer%20%C2%B7%20Co-founder%20of%20Callwise%20Solutions%20GmbH&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Cedric Röseler" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/DEIN-PROFIL/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D04894,100:805AE2&height=4" width="160" alt="" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cedric-r-83b32a318/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://callwise.ch">
-    <img src="https://img.shields.io/badge/callwise.ch-805AE2?style=for-the-badge" alt="callwise.ch" />
+    <img src="https://img.shields.io/badge/callwise.ch-0A0A0A?style=for-the-badge" alt="callwise.ch" />
   </a>
 </p>
 
@@ -28,8 +32,8 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 ## Projects
 
 <p align="center">
-  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:D04894,100:805AE2&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=FFFFFF&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Callwise Solutions GmbH" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:805AE2,100:D04894&height=150&text=Job%20Signal%20Scanner&fontSize=28&fontColor=FFFFFF&fontAlignY=42&desc=Turns%20phone-heavy%20job%20ads%20into%20warm%20leads&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Job Signal Scanner" />
+  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Callwise Solutions GmbH" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Job%20Signal%20Scanner&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=Turns%20phone-heavy%20job%20ads%20into%20warm%20leads&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Job Signal Scanner" />
 </p>
 
 ---
@@ -67,7 +71,7 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D04894?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=for-the-badge)
 
 **Automation & Business Tools**
 
@@ -80,4 +84,4 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:805AE2,100:D04894&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D04894,100:805AE2&height=70&section=footer" width="100%" alt="" />
