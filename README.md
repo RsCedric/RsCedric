@@ -28,8 +28,7 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 ## Projects
 
 <p align="center">
-  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Callwise Solutions GmbH" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Job%20Signal%20Scanner&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=Turns%20phone-heavy%20job%20ads%20into%20warm%20leads&descSize=15&descAlignY=66&animation=fadeIn" width="49%" alt="Job Signal Scanner" />
+  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="60%" alt="Callwise Solutions GmbH" /></a>
 </p>
 
 ---
