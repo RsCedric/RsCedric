@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FAFAF7&height=200&section=header&text=Cedric%20R%C3%B6seler&fontSize=56&fontColor=0A0A0A&fontAlignY=40&desc=Developer%20%C2%B7%20Co-founder%20of%20Callwise%20Solutions%20GmbH&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Cedric Röseler" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FAFAF7&height=200&section=header&text=Cedric%20R%C3%B6seler&fontSize=56&fontColor=0A0A0A&fontAlignY=40&desc=Student%20at%20B%C3%A9n%C3%A9dict%20School%20Zurich%20%C2%B7%20Co-founder%20of%20Callwise&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Cedric Röseler" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D04894,100:805AE2&height=4" width="160" alt="" />
@@ -12,10 +12,6 @@
   <a href="https://callwise.ch">
     <img src="https://img.shields.io/badge/callwise.ch-0A0A0A?style=for-the-badge" alt="callwise.ch" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=805AE2&center=true&vCenter=true&width=520&lines=Building+AI+phone+assistants+for+Swiss+SMEs;Automating+the+boring+stuff;Student+%40+B%C3%A9n%C3%A9dict+School+Zurich" alt="Typing intro" />
 </p>
 
 ---
