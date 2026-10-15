@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FAFAF7&height=200&section=header&text=Cedric%20R%C3%B6seler&fontSize=56&fontColor=0A0A0A&fontAlignY=40&desc=Student%20at%20B%C3%A9n%C3%A9dict%20School%20Zurich%20%C2%B7%20Co-founder%20of%20Callwise&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Cedric Röseler" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D04894,100:805AE2&height=4" width="160" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D04894,100:805AE2&height=3" width="120" alt="" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://callwise.ch">
-    <img src="https://img.shields.io/badge/callwise.ch-0A0A0A?style=for-the-badge" alt="callwise.ch" />
+    <img src="https://img.shields.io/badge/callwise.ch-EFE9FB?style=for-the-badge" alt="callwise.ch" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-18, studying computer science at the **Bénédict School in Zurich** and co-founder of <a href="https://callwise.ch"><img src="https://img.shields.io/badge/Callwise-Solutions_GmbH-805AE2?style=flat-square&labelColor=D04894" alt="Callwise Solutions GmbH" align="center" /></a>.
+18, studying computer science at the **Bénédict School in Zurich** and co-founder of **[Callwise Solutions GmbH](https://callwise.ch)**.
 We build AI phone assistants that pick up business calls 24/7, book appointments and take orders, so Swiss companies stay reachable without adding headcount.
 
 I like the whole chain: frontend, backend, infrastructure and the automations that glue it together.
@@ -28,7 +28,7 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 ## Projects
 
 <p align="center">
-  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=FAFAF7&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="60%" alt="Callwise Solutions GmbH" /></a>
+  <a href="https://callwise.ch"><img src="https://capsule-render.vercel.app/api?type=rounded&color=EFE9FB&height=150&text=Callwise%20Solutions%20GmbH&fontSize=28&fontColor=0A0A0A&fontAlignY=42&desc=AI%20phone%20assistants%2C%2024%2F7%20for%20Swiss%20SMEs&descSize=15&descAlignY=66&animation=fadeIn" width="60%" alt="Callwise Solutions GmbH" /></a>
 </p>
 
 ---
@@ -66,7 +66,7 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)](https://elevenlabs.io)
 [![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)](https://deepgram.com)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0A0A0A?style=for-the-badge)](https://www.promptingguide.ai)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EFE9FB?style=for-the-badge)](https://www.promptingguide.ai)
 
 **Automation & Business Tools**
 
@@ -79,4 +79,4 @@ I like the whole chain: frontend, backend, infrastructure and the automations th
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D04894,100:805AE2&height=70&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D04894,100:805AE2&height=3" width="100%" alt="" />
